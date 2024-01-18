@@ -1,0 +1,32 @@
+footer {
+  background-image: linear-gradient(to right bottom, #051937, #203e61, #3d688c, #5b95b9, #7cc4e5);
+}
+
+footer .footer__content{
+  text-align: center;
+  padding: 6rem 2rem 1rem;
+  max-width: 47rem;
+  color: white;
+
+}
+
+footer .footer__content .footer__contact span {
+  display: block;
+  font-weight: 500;
+  color: white;
+}
+
+footer .footer__content ul li {
+  display: inline-block;
+color: white;
+
+}
+
+footer .footer__content ul a {
+  display: inline-block;
+  padding: 1rem;
+}
+
+footer .footer__content .footer__copyright {
+  font-size: 1.4rem;
+}
